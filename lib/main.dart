@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
               Expanded(
                 child: Column(
                   children: const [
-                    Text('Dispatch Board'),
+                    Text('Weather'),
                   ],
                 ),
               )
